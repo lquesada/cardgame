@@ -1,4 +1,6 @@
 # cardgame
+Copyright (c) 2022, Luis Quesada Torres - https://github.com/lquesada | www.luisquesada.com
+
 Card game generator script for printed cards.
 
 This is a rough script that I quickly put together for my specific use case. It works though but is limited in options. Feel free to edit or expand.
